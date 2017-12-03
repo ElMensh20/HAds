@@ -1,0 +1,7 @@
+BD Info:
+name= localhost
+pass= 
+any update in sql :
+for Maraim :
+file name = houseads-Mv#.sql
+#= no of update
